@@ -1,2 +1,4 @@
-InvalidDistribution: Invalid distribution metadata. Try upgrading twine if possible.
-Checking c:\users\nik_v\pycharmprojects\binance\target\dist\-1.0.3\dist\UNKNOWN-1.0.3-py3-none-any.whl: 
+Checking c:\users\nik_v\pycharmprojects\binance\target\dist\nikhil-data-extractor-1.0.0\dist\Nikhil_Data_Extractor-1.0.0-py3-none-any.whl: PASSED, with warnings
+  warning: `long_description_content_type` missing. defaulting to `text/x-rst`.
+Checking c:\users\nik_v\pycharmprojects\binance\target\dist\nikhil-data-extractor-1.0.0\dist\Nikhil-Data-Extractor-1.0.0.tar.gz: PASSED, with warnings
+  warning: `long_description_content_type` missing. defaulting to `text/x-rst`.

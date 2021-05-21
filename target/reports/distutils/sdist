@@ -1,39 +1,45 @@
 running clean
+'build\temp.win-amd64-3.9' does not exist -- can't clean it
 'build\lib' does not exist -- can't clean it
 'build\bdist.win-amd64' does not exist -- can't clean it
 'build\scripts-3.9' does not exist -- can't clean it
 running sdist
 running egg_info
-creating UNKNOWN.egg-info
-writing UNKNOWN.egg-info\PKG-INFO
-writing dependency_links to UNKNOWN.egg-info\dependency_links.txt
-writing namespace_packages to UNKNOWN.egg-info\namespace_packages.txt
-writing requirements to UNKNOWN.egg-info\requires.txt
-writing top-level names to UNKNOWN.egg-info\top_level.txt
-writing manifest file 'UNKNOWN.egg-info\SOURCES.txt'
-reading manifest file 'UNKNOWN.egg-info\SOURCES.txt'
-writing manifest file 'UNKNOWN.egg-info\SOURCES.txt'
+creating Nikhil_Data_Extractor.egg-info
+writing Nikhil_Data_Extractor.egg-info\PKG-INFO
+writing dependency_links to Nikhil_Data_Extractor.egg-info\dependency_links.txt
+writing namespace_packages to Nikhil_Data_Extractor.egg-info\namespace_packages.txt
+writing requirements to Nikhil_Data_Extractor.egg-info\requires.txt
+writing top-level names to Nikhil_Data_Extractor.egg-info\top_level.txt
+writing manifest file 'Nikhil_Data_Extractor.egg-info\SOURCES.txt'
+reading manifest file 'Nikhil_Data_Extractor.egg-info\SOURCES.txt'
+writing manifest file 'Nikhil_Data_Extractor.egg-info\SOURCES.txt'
 warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
 
 running check
-warning: Check: missing required meta-data: name, url
+warning: Check: missing required meta-data: url
 
 warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) should be supplied
 
-creating UNKNOWN-1.0.3
-creating UNKNOWN-1.0.3\UNKNOWN.egg-info
-creating UNKNOWN-1.0.3\scripts
-copying files to UNKNOWN-1.0.3...
-copying setup.py -> UNKNOWN-1.0.3
-copying UNKNOWN.egg-info\PKG-INFO -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\SOURCES.txt -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\dependency_links.txt -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\namespace_packages.txt -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\requires.txt -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\top_level.txt -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying UNKNOWN.egg-info\zip-safe -> UNKNOWN-1.0.3\UNKNOWN.egg-info
-copying scripts\config.py -> UNKNOWN-1.0.3\scripts
-Writing UNKNOWN-1.0.3\setup.cfg
+creating Nikhil-Data-Extractor-1.0.0
+creating Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+creating Nikhil-Data-Extractor-1.0.0\scripts
+copying files to Nikhil-Data-Extractor-1.0.0...
+copying setup.py -> Nikhil-Data-Extractor-1.0.0
+copying Nikhil_Data_Extractor.egg-info\PKG-INFO -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\SOURCES.txt -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\dependency_links.txt -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\namespace_packages.txt -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\requires.txt -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\top_level.txt -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying Nikhil_Data_Extractor.egg-info\zip-safe -> Nikhil-Data-Extractor-1.0.0\Nikhil_Data_Extractor.egg-info
+copying scripts\config.py -> Nikhil-Data-Extractor-1.0.0\scripts
+not copying Nikhil_Data_Extractor.egg-info\SOURCES.txt (output up-to-date)
+Reading configuration from Nikhil-Data-Extractor-1.0.0\setup.cfg
+Adding new section [egg_info] to Nikhil-Data-Extractor-1.0.0\setup.cfg
+Setting egg_info.tag_build to '' in Nikhil-Data-Extractor-1.0.0\setup.cfg
+Setting egg_info.tag_date to 0 in Nikhil-Data-Extractor-1.0.0\setup.cfg
+Writing Nikhil-Data-Extractor-1.0.0\setup.cfg
 creating dist
 Creating tar archive
-removing 'UNKNOWN-1.0.3' (and everything under it)
+removing 'Nikhil-Data-Extractor-1.0.0' (and everything under it)

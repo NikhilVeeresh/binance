@@ -6,12 +6,12 @@ use_plugin("python.flake8")
 use_plugin("python.distutils")
 use_plugin("copy_resources")
 
-
-name = ""
-version = "1.0.3"
-summary = ""
-description = ""
-license = ""
+name = "Nikhil-Data-Extractor"
+version = "1.0.0"
+summary = "Nikhil Veeresh Data Extractor"
+description = "Takes historical (processed) datasets and prepares them for " \
+              "input to modeling"
+license = "Nikhil Veeresh"
 default_task = ["clean", "analyze", "publish"]
 
 
@@ -27,4 +27,3 @@ def set_properties(project):
 @init
 def add_dependencies(project):
     project.depends_on_requirements("requirements.txt", declaration_only=True)
-

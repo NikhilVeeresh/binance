@@ -1,0 +1,9 @@
+setup.py
+Nikhil_Data_Extractor.egg-info/PKG-INFO
+Nikhil_Data_Extractor.egg-info/SOURCES.txt
+Nikhil_Data_Extractor.egg-info/dependency_links.txt
+Nikhil_Data_Extractor.egg-info/namespace_packages.txt
+Nikhil_Data_Extractor.egg-info/requires.txt
+Nikhil_Data_Extractor.egg-info/top_level.txt
+Nikhil_Data_Extractor.egg-info/zip-safe
+scripts/config.py

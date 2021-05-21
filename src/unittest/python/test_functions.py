@@ -18,5 +18,5 @@ class UtilsTest(TestCase):
         binance_operator.write_to_s3_from_dataframe(DataType.ACCOUNTORDERS,
                                                     df_account_orders, start_date, end_date)
 
-        self.assertEqual(5, len(df_trading_pairs.columns))
-        self.assertEqual(5, len(df_account_orders.columns))
+        self.assertEqual(13, len(df_trading_pairs.columns))
+        self.assertEqual(18, len(df_account_orders.columns))

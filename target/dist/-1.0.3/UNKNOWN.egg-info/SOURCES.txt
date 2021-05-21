@@ -1,9 +1,0 @@
-setup.py
-UNKNOWN.egg-info/PKG-INFO
-UNKNOWN.egg-info/SOURCES.txt
-UNKNOWN.egg-info/dependency_links.txt
-UNKNOWN.egg-info/namespace_packages.txt
-UNKNOWN.egg-info/requires.txt
-UNKNOWN.egg-info/top_level.txt
-UNKNOWN.egg-info/zip-safe
-scripts/config.py
