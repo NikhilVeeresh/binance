@@ -1,0 +1,14 @@
+{
+  "binance-api": {
+    "api_key": "CzzT0PC7Hv4ZjEVaEbKxsPS6PwI73ucSTQXwl3ygEdSoIr0eDHykzeUM1dd1OyHe",
+    "api_secret": "45HrenPNhvvFr86qhaniG6fL00rtCD4F8mysAZGa35afX8IPDHUoUz4Hov9i6iL0",
+    "api_tld": "us"
+  },
+  "s3-data-lake": {
+    "access_key_id": "AKIAZO7N3DRSDMPKCB3Q",
+    "secret_access_key": "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",
+    "bucket": "data-lake-us-east-1-650649476196",
+    "trading_pairs_object": "tradingpairs",
+    "account_orders_object": "accountorders"
+  }
+}
