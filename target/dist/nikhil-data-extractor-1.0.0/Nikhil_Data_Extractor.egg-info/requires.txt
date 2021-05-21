@@ -1,3 +1,0 @@
-pybuilder>=0.12.10
-pandas>=1.2.4
-binance>=0.3
